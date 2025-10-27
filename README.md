@@ -31,6 +31,3 @@ The dataset contains product- and vendor-level transactional details such as `Ve
 - Leverage bulk purchase advantages for cost efficiency.  
 - Improve marketing and distribution strategies for low-performing vendors.  
 
----
-
-*This project demonstrates end-to-end data analysis capabilities involving SQL querying, Python-based EDA, and statistical validation to optimize vendor and inventory performance.*
